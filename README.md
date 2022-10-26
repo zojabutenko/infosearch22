@@ -3,7 +3,7 @@
 ## Contents:
 3 homeworks and a project
 
-## Project
+## Project:
 The website is Flask + HTML + CSS (Bootstrap).
 
 Directory models: models used for search (BERT, TF-IDF, BM25).
