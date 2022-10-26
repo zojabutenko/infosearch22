@@ -1,7 +1,7 @@
 # infosearch22
 
 ## Contents:
-4 homeworks and a project
+3 homeworks and a project
 
 ## Project
 The website is Flask + HTML + CSS (Bootstrap).
